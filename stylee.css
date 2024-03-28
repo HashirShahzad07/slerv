@@ -238,6 +238,18 @@ img.slervnoimicss {
 
 
 @media (max-width: 480px) {
+    .mainrow {
+        FLEX-DIRECTION: column;
+    }
+    
+    .mainrow .lefttt {
+        WIDTH: 100%;
+    }
+    
+    .mainrow .righttt {
+        width: 90%;
+        margin:0 auto;
+    }
     .toke_details {
         width: 100%;
     }
