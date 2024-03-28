@@ -20,7 +20,7 @@ span.hddd {
     background: #000000;
 }
 .body {
-    background: #bd0111;
+    background: #bd0111b3;
 }
 
 .separator_blue {
@@ -43,7 +43,7 @@ span.hddd {
     height: 290px;
 }
 .div-block-14 {
-    background: #bd0111;
+    background: #d04c57;
 }
 
 .toke_details {
@@ -51,7 +51,7 @@ span.hddd {
 }
 
 .coin_bg {
-    background: #bd0111;
+    background: #d04c57;
 }
 
 .separator_blue2 {
@@ -59,7 +59,7 @@ span.hddd {
 }
 
 .section_how {
-    background: #bd0111;
+    background: #d04c57;
 }
 
 img.image-4 {
@@ -67,19 +67,19 @@ img.image-4 {
 }
 
 .div-block-10 {
-   background: #bd0111;
+    background: #d04c57;
 }
 
 .div-block-9 {
-    background: #bd0111;
+    background: #c31826;
 }
 
 .section_community {
-    background: #bd0111;
+    background: #d04c57;
 }
 
 .join_footer {
-    background: #bd0111;
+    background: #bd0111b3;
 }
 .join_button {
     background: #bd0111;
@@ -162,6 +162,26 @@ img.abtslerfimg {
     height: 90px;
     object-fit: cover;
     margin: 0;
+}
+.bannnnmain {
+    display: flex;
+    align-items: center;
+}
+
+.txticonn {
+    display: flex;
+    align-items: center;
+}
+
+.txticonn img {
+    width: 20%;
+}
+
+.block_ca {
+    width: 60%;
+}
+h2 {
+    color: white;
 }
 @media (max-width: 1600px) {
     /* img.abtslerfimg {
