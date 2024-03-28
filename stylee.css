@@ -142,17 +142,67 @@ img.slider {
     right: -40px;
 }
 
+div#tokenomics {
+    margin-bottom: 190px;
+}
+
+.mainrow {
+    margin: 0 210px;
+}
+
+.mainrow .lefttt {
+    width: 48%;
+}
+
+.mainrow .lefttt img {
+    width: 90%;
+}
+
+img.abtslerfimg {
+    height: 90px;
+    object-fit: cover;
+    margin: 0;
+}
+@media (max-width: 1600px) {
+    /* img.abtslerfimg {
+        margin-top: -170px;
+        margin-bottom: -150px;
+    } */
+}
+
+@media (max-width: 1366px) {
+    .mainrow {
+        margin: 0 110px;
+    }
+    .mainrow .lefttt {
+        width: 70%;
+    }
+    
+    .mainrow {
+        margin-right: 200px;
+    }
+    
+    div#how {
+        margin-top: -200px;
+    }
+}
+
+
 @media (max-width: 480px) {
+    .tokenomics:before {
+        right: 0;
+        display: none;
+    }
     .mainrow {
         margin: 0 auto;
     }
     
-    img.abtslerfimg {
+    /* img.abtslerfimg {
         margin: 0;
         width: 90%;
         margin-top: -80px;
         margin-bottom: -90px;
-    }
+    } */
     
     img.booby {
         width: 100%;
