@@ -118,6 +118,7 @@ img.tctca {
 }
 
 img.abtslerfimg {
+    
     width: 50%;
     margin-bottom: -200px;
     margin-top: -230px;
@@ -134,6 +135,13 @@ img.slider {
 .separator_blue {
     background: black;
 }
+.tokenomics:before {
+    content: url(4.png);
+    position: absolute;
+    top: 0;
+    right: -40px;
+}
+
 @media (max-width: 480px) {
     .mainrow {
         margin: 0 auto;
