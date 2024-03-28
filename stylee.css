@@ -209,6 +209,28 @@ h2 {
 
 
 @media (max-width: 480px) {
+    .bannnnmain {
+        margin-top: 120px;
+    }
+    
+    .bannnnmain {
+        flex-direction: column-reverse;
+        justify-content: center;
+        align-items: baseline;
+    }
+    
+    .txticonn {
+        justify-content: center;
+    }
+    
+    .block_ca {
+        width: 85%;
+        margin: 0 auto;
+    }
+    
+    .txticonn img {
+        width: 40%;
+    }
     .tokenomics:before {
         right: 0;
         display: none;
