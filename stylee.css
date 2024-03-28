@@ -134,3 +134,28 @@ img.slider {
 .separator_blue {
     background: black;
 }
+@media (max-width: 480px) {
+    .mainrow {
+        margin: 0 auto;
+    }
+    
+    img.abtslerfimg {
+        margin: 0;
+        width: 90%;
+        margin-top: -80px;
+        margin-bottom: -90px;
+    }
+    
+    img.booby {
+        width: 100%;
+        position: relative;
+        top: 90px;
+    }
+    
+    .block_logo {top: -110px;}
+    
+    h2 {
+        color: white;
+    }
+
+}
