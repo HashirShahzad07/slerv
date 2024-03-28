@@ -151,11 +151,12 @@ div#tokenomics {
 }
 
 .mainrow .lefttt {
-    width: 48%;
+    width: 60%;
 }
 
 .mainrow .lefttt img {
     width: 90%;
+    margin: 0 auto;
 }
 
 img.abtslerfimg {
@@ -192,6 +193,25 @@ img.slervnoimicss {
     height: 100px;
     object-fit: cover;
 }
+.mainrow {
+    flex-direction: row-reverse;
+}
+
+.mainrow .righttt {
+    margin: 0 20px;
+    width: 40%;
+}
+
+.block_about {
+    flex-wrap: wrap;
+}
+
+.block_paragraph {
+    flex-wrap: wrap;
+    width: auto;
+}
+
+
 @media (max-width: 1600px) {
     /* img.abtslerfimg {
         margin-top: -170px;
