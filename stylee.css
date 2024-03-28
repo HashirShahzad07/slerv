@@ -1,0 +1,136 @@
+.section_welcome {
+    background: #df9d3f;
+}
+
+.block_welcome img {
+    border-radius: 50%;
+    width: 360px;
+    height: 350px;
+    object-fit: cover;
+    margin: 30px 0;
+}
+
+span.hddd {
+    color: black;
+    font-size: 60px;
+    line-height: 60px;
+}
+
+.continue {
+    background: #000000;
+}
+.body {
+    background: #bd0111;
+}
+
+.separator_blue {
+    bbackground: #000000;
+}
+
+.separator_in {
+    background: #bd0111;
+}
+
+.separator_in2 {
+    background: #000000;
+}
+
+.para {color: #bd0111;}
+
+.div-block-15 img {
+    border-radius: 15px;
+    width: 500px;
+    height: 290px;
+}
+.div-block-14 {
+    background: #bd0111;
+}
+
+.toke_details {
+    background: #bd0111;
+}
+
+.coin_bg {
+    background: #bd0111;
+}
+
+.separator_blue2 {
+    background: #000000;
+}
+
+.section_how {
+    background: #bd0111;
+}
+
+img.image-4 {
+    filter: sepia(1);
+}
+
+.div-block-10 {
+   background: #bd0111;
+}
+
+.div-block-9 {
+    background: #bd0111;
+}
+
+.section_community {
+    background: #bd0111;
+}
+
+.join_footer {
+    background: #bd0111;
+}
+.join_button {
+    background: #bd0111;
+}
+.mainrow {
+    display: flex;
+    align-items: end;
+    margin-right: 280px;
+}
+
+.mainrow .lefttt {
+    width: 40%;
+}
+
+img.tctca {
+    width: 100%;
+}
+
+img.abtslerfimg {
+    width: 50%;
+    margin-bottom: -200px;
+    margin-top: -230px;
+}
+.mainrow {
+    display: flex;
+    align-items: end;
+    margin-right: 280px;
+}
+
+.mainrow .lefttt {
+    width: 40%;
+}
+
+img.tctca {
+    width: 100%;
+}
+
+img.abtslerfimg {
+    width: 50%;
+    margin-bottom: -200px;
+    margin-top: -230px;
+}
+
+img.slider {
+    display: none;
+}
+
+.tokenomics {
+    margin-bottom: -170px;
+}
+
+.separator_blue {
+    background: black;
+}
