@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Function to create and animate the sliding penguin image
     function createAndAnimateSlidingPenguin() {
         const img = document.createElement('img');
-        img.src = 'push.png'; // Your penguin image
+        img.src = ''; // Your penguin image
         img.style.position = 'fixed';
         img.style.width = '200px'; // Set the width as required
         img.style.height = 'auto';

@@ -63,7 +63,7 @@ span.hddd {
 }
 
 img.image-4 {
-    filter: sepia(1);
+    filter: brightness(0);
 }
 
 .div-block-10 {
