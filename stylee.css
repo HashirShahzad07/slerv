@@ -186,6 +186,12 @@ h2 {
 .mainrow {
     margin-bottom: 100px;
 }
+img.slervnoimicss {
+    width: 400px;
+    margin: 0 auto;
+    height: 100px;
+    object-fit: cover;
+}
 @media (max-width: 1600px) {
     /* img.abtslerfimg {
         margin-top: -170px;
