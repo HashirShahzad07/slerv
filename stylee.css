@@ -91,7 +91,7 @@ img.image-4 {
 }
 
 .mainrow .lefttt {
-    width: 40%;
+    width: 50%;
 }
 
 img.tctca {
@@ -110,7 +110,7 @@ img.abtslerfimg {
 }
 
 .mainrow .lefttt {
-    width: 40%;
+    width: 50%;
 }
 
 img.tctca {
@@ -147,11 +147,11 @@ div#tokenomics {
 }
 
 .mainrow {
-    margin: 0 210px;
+    margin: 0 100px;
 }
 
 .mainrow .lefttt {
-    width: 60%;
+    width: 50%;
 }
 
 .mainrow .lefttt img {
@@ -199,7 +199,7 @@ img.slervnoimicss {
 
 .mainrow .righttt {
     margin: 0 20px;
-    width: 40%;
+    width: 50%;
 }
 
 .block_about {
@@ -247,7 +247,7 @@ img.slervnoimicss {
     }
     
     .mainrow .righttt {
-        width: 90%;
+        width: 100%;
         margin:0 auto;
     }
     .toke_details {
